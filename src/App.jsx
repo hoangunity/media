@@ -1,5 +1,11 @@
+import UsersList from "./components/UsersList";
+
 function App() {
-  return <div>App</div>;
+  return (
+    <div className="container">
+      <UsersList />
+    </div>
+  );
 }
 
 export default App;
