@@ -1,32 +1,20 @@
 {
   "users": [
     {
-      "id": 1,
-      "name": "Myra"
+      "name": "Lynn Kunze",
+      "id": 1
     },
     {
-      "name": "Naomi Wyman",
+      "name": "Charles Deckow",
       "id": 2
     },
     {
-      "name": "Mrs. Alyssa Metz",
+      "name": "June Reinger",
       "id": 3
     },
     {
-      "name": "Clayton Schinner",
+      "name": "Jerry Boehm",
       "id": 4
-    },
-    {
-      "name": "Dwayne Trantow",
-      "id": 5
-    },
-    {
-      "name": "Tiffany Kautzer",
-      "id": 6
-    },
-    {
-      "name": "Alejandro Cole",
-      "id": 7
     }
   ],
   "albums": [],
