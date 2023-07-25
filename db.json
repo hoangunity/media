@@ -5,14 +5,28 @@
       "id": 1
     },
     {
-      "name": "Joy Ritchie",
-      "id": 3
-    },
-    {
       "name": "Julia Lesch",
       "id": 6
+    },
+    {
+      "name": "Irvin McGlynn",
+      "id": 9
+    },
+    {
+      "name": "Vera Hilpert DVM",
+      "id": 10
+    },
+    {
+      "name": "Tabitha Langworth",
+      "id": 11
     }
   ],
-  "albums": [],
+  "albums": [
+    {
+      "id": 1,
+      "userId": 1,
+      "title": "Go to the Gym"
+    }
+  ],
   "photos": []
 }

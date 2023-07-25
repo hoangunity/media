@@ -4,6 +4,7 @@ import { removeUser } from "../store";
 import { useThunk } from "../hooks/use-thunk";
 import ExpandablePanel from "./ExpandablePanel";
 import { Fragment } from "react";
+import AlbumList from "./AlbumList";
 
 function UsersListItem({ user }) {
   const [doRemoveUser, isLoading, error] = useThunk(removeUser);
@@ -22,7 +23,11 @@ function UsersListItem({ user }) {
     </Fragment>
   );
 
-  return <ExpandablePanel header={header}>Content</ExpandablePanel>;
+  return (
+    <ExpandablePanel header={header}>
+      <AlbumList user={user} />
+    </ExpandablePanel>
+  );
 }
 
 export default UsersListItem;
