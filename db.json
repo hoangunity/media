@@ -1,14 +1,6 @@
 {
   "users": [
     {
-      "name": "Carroll O'Conner",
-      "id": 1
-    },
-    {
-      "name": "Julia Lesch",
-      "id": 6
-    },
-    {
       "name": "Irvin McGlynn",
       "id": 9
     },
@@ -23,9 +15,14 @@
   ],
   "albums": [
     {
-      "id": 1,
-      "userId": 1,
-      "title": "Go to the Gym"
+      "userId": 9,
+      "title": "Bespoke Granite Chicken",
+      "id": 8
+    },
+    {
+      "userId": 10,
+      "title": "Handmade Concrete Car",
+      "id": 9
     }
   ],
   "photos": []
