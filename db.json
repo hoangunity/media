@@ -1,20 +1,16 @@
 {
   "users": [
     {
-      "name": "Lynn Kunze",
+      "name": "Carroll O'Conner",
       "id": 1
     },
     {
-      "name": "Charles Deckow",
-      "id": 2
-    },
-    {
-      "name": "June Reinger",
+      "name": "Joy Ritchie",
       "id": 3
     },
     {
-      "name": "Jerry Boehm",
-      "id": 4
+      "name": "Julia Lesch",
+      "id": 6
     }
   ],
   "albums": [],
