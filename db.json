@@ -22,7 +22,23 @@
       "userId": 11,
       "title": "Luxurious Bronze Bacon",
       "id": 2
+    },
+    {
+      "userId": 11,
+      "title": "Rustic Metal Pants",
+      "id": 3
     }
   ],
-  "photos": []
+  "photos": [
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150/abstract?lock=6586198690627584",
+      "id": 1
+    },
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150/abstract?lock=5451511807082496",
+      "id": 2
+    }
+  ]
 }
